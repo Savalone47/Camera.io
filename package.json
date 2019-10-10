@@ -1,0 +1,25 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "description": "webcam socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "socket.io",
+    "express",
+    "log"
+  ],
+  "author": "savalone47",
+  "license": "ISC",
+  "repository": "https://github.com/savalone47/webcam.io",
+  "dependencies": {
+    "express": "^4.17.1",
+    "log": "^6.0.0",
+    "nodemon": "^1.19.3",
+    "socket.io": "^2.3.0"
+  }
+}
