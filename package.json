@@ -21,6 +21,6 @@
     "log": "^6.0.0",
     "nodemon": "^1.19.3",
     "serve-favicon": "^2.5.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
