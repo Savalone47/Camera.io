@@ -29,9 +29,9 @@ io.on('connection', function(socket){
 
 ```bash
 # clone the repo
-git clone https://github.com/savalone47/WebCame.io.git
+git clone https://github.com/savalone47/Camera.io.git
 
-cd WebCame.io
+cd Camera.io
 
 # Install the dependencies:
 npm install
@@ -42,4 +42,4 @@ npm start
 
 ## Author
 
-[Savalone47](https://github.com/savalone47/WebCame.io)
+[Savalone47](https://github.com/savalone47/Camera.io)
