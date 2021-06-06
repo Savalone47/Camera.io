@@ -1,4 +1,4 @@
-# WebCame.io
+# Camera.io
 
 socket.IO enables real-time, bidirectional and event-based communication.<br>
 It works on every platform, browser or device, focusing equally on reliability and speed.<br>
